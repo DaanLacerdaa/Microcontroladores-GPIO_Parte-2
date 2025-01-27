@@ -739,3 +739,5 @@ void animacao10(PIO pio, uint sm) {
     }
 
 }
+
+//animação 9
